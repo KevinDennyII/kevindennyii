@@ -2,7 +2,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/kevindennyii/kevindennyii/master/Kevin_as_Mighty_Mouse.jpg" width="125" height="150" alt="banner a cartoon illustration of Kevin">
 
-I'm a computer scientist who is passionate about front-end web development, curating music for followers of my alias DJ LookUp, and building community with local businesses. Some technologies I enjoy working with include ReactJS, GatsbyJS, WordPress, and MongoDB. 
+I'm a computer scientist who is passionate about front-end web development, curating music for followers of my alias DJ LookUp, and building community with local businesses and organizations. Some technologies I enjoy working with include ReactJS, GatsbyJS, WordPress, and MongoDB. 
 
 
 ## Find me around the web 🌎: </a>
