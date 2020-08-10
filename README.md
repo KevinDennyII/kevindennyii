@@ -1,4 +1,4 @@
-#  ¡Hola, amigos y amigas! 👋🏾 👨🏾‍💻
+#  ¡Hola, amigas y amigos! 👋🏾 👨🏾‍💻
 
 <img align="right" src="https://raw.githubusercontent.com/kevindennyii/kevindennyii/master/Kevin_as_Mighty_Mouse.jpg" width="125" height="150" alt="banner a cartoon illustration of Kevin">
 
