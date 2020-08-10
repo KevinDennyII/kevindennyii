@@ -1,6 +1,6 @@
 #  ¡Hola, amigos y amigas! 👋🏾 👨🏾‍💻
 
-<img src="https://raw.githubusercontent.com/kevindennyii/kevindennyii/master/Kevin_as_Mighty_Mouse" alt="banner a cartoon illustration of Kevin">
+<img src="https://raw.githubusercontent.com/kevindennyii/kevindennyii/master/Kevin_as_Mighty_Mouse.jpg" alt="banner a cartoon illustration of Kevin">
 I'm a computer scientist who is passionate about front-end web development, curating music for followers of my alias DJ LookUp, and building community with local businesses. Some technologies I enjoy working with include ReactJS, GatsbyJS, WordPress, and MongoDB. 
 
 
