@@ -5,7 +5,7 @@
 I'm a computer scientist who is passionate about front-end web development.  I share some of my front-end web development journey on Twitter throgh my alias <a href="https://www.twitter.com/thatdeveloper2">that_developer</a>.  Some technologies I enjoy working with include ReactJS, GatsbyJS, WordPress, and MongoDB.
 
 I am also a proud member of<br />
-<a href="https://blackcodecollective.com/"><img src="https://raw.githubusercontent.com/kevindennyii/kevindennyii/master/bcclog.png" style="text-align:center" width="100" height="00" alt="Black Code Collective logo with black fist in between curly braces"></a>
+<a href="https://blackcodecollective.com/"><img src="https://raw.githubusercontent.com/kevindennyii/kevindennyii/master/bcclog.png" style="text-align:center" width="100" height="90" alt="Black Code Collective logo with black fist in between curly braces"></a>
 
 
 ## Find me around the web 🌎 </a>
