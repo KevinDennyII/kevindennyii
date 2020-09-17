@@ -3,7 +3,7 @@
 <img align="right" src="https://raw.githubusercontent.com/kevindennyii/kevindennyii/master/Kevin_as_Mighty_Mouse.jpg" width="125" height="150" alt="banner a cartoon illustration of Kevin">
 
 I'm a computer scientist who is passionate about front-end web development.  I share some of my front-end web development journey on Twitter throgh my alias <a href="https://www.twitter.com/thatdeveloper2">that_developer</a>.  Some technologies I enjoy working with include ReactJS, GatsbyJS, WordPress, and MongoDB. 
-I am a proud member of <a href="https://blackcodecollective.com/">Black Code Collective</a><img src="https://raw.githubusercontent.com/kevindennyii/kevindennyii/master/static1.squarespace.jpg" width="20" height="20" alt="Black Code Collective logo with black fist in between curly braces">  
+I am a proud member of <a href="https://blackcodecollective.com/">Black Code Collective</a><img src="https://raw.githubusercontent.com/kevindennyii/kevindennyii/master/static1.squarespace.jpg" width="35" height="35" alt="Black Code Collective logo with black fist in between curly braces">  
 
 
 ## Find me around the web 🌎 </a>
