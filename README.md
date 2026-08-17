@@ -13,4 +13,5 @@ Proud member of:<br />
     - <a href="https://www.instagram.com/djlookup">Instagram</a> 
     - <a href="https://bandcamp.com/djlookup">BandCamp</a>
 - Sharing words of inspiration and a few updates, here and there, on <a href="https://www.linkedin.com/in/kodii/">LinkedIn</a> 💼
-- I even created a simple Basic Computer Literacy course presentation, <a href="https://docs.google.com/presentation/d/1VWBqOI74oHMQXat666iA42uvWDQNlid1ZeLXASG3unM/edit?usp=sharing">Pt.1</a> and <a href="https://docs.google.com/presentation/d/10NqzAc8uY8kGn7XPjJHBAOkZHz3qgDgfoK4wH6ZLf5g/edit?usp=sharing">Pt.2</a>, for a local women's shelter in Maryland to share and educate. 💻🖥⌨️📱 ***UPDATE*** I recently updated my <a href="https://basic-computer-training.netlify.app/">Basic Computer Literacy Course</a> <-- Click that :-)
+- I even created a simple Basic Computer Literacy course presentation, <a href="https://docs.google.com/presentation/d/1VWBqOI74oHMQXat666iA42uvWDQNlid1ZeLXASG3unM/edit?usp=sharing">Pt.1</a> and <a href="https://docs.google.com/presentation/d/10NqzAc8uY8kGn7XPjJHBAOkZHz3qgDgfoK4wH6ZLf5g/edit?usp=sharing">Pt.2</a>, for a local women's shelter in Maryland to share and educate. 💻🖥⌨️📱
+*** UPDATE ***: I recently updated my <a href="https://basic-computer-training.netlify.app/">Basic Computer Literacy Course</a> <-- Click that :-)
